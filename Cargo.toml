@@ -1,0 +1,8 @@
+[package]
+name = "xplane-metal-shader-converter"
+version = "0.1.0"
+authors = ["Ronald LaBelle <rlabelle@fossil.com>"]
+edition = "2018"
+
+[dependencies]
+png = "0.14.0"
